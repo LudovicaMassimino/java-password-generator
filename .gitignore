@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.DS_Store
+java-password-generator/.classpath
+java-password-generator/.DS_Store
+java-password-generator/.project
+java-password-generator/src/.DS_Store
+java-password-generator/src/org/.DS_Store
+java-password-generator/src/org/lessons/.DS_Store
